@@ -61,7 +61,7 @@
        async function jawab(){await swals.fire('Kirim pesan ke WhatsApp aku, ya!');window.location = "https://api.whatsapp.com/send?phone=&text=" + pesanwhatsapp;}
 
        async function pertama(){
-         audio = new Audio('[https://feeldreams.github.io/almostday.mp3](https://music.youtube.com/watch?v=6ANuCV6Me9M&si=gZRtYOwubTwxOBgW)');setTimeout(showDiv,100);
+         audio = new Audio('<audio controls style='width: 100%;'><source src='http://docs.google.com/uc?export=open&id=https://music.youtube.com/watch?v=6ANuCV6Me9M&si=Ht5xYNo87_jaqgKL' type='audio/mp3'></audio>');setTimeout(showDiv,100);
        } pertama();
 	
        
