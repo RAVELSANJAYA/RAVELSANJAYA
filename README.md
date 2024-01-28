@@ -61,7 +61,7 @@
        async function jawab(){await swals.fire('Kirim pesan ke WhatsApp aku, ya!');window.location = "https://api.whatsapp.com/send?phone=&text=" + pesanwhatsapp;}
 
        async function pertama(){
-         audio = new Audio('https://www.capcut.com/t/Zs8ju5Wfe/');setTimeout(showDiv,100);
+         audio = new Audio('[https://www.capcut.com/t/Zs8ju5Wfe/](https://youtu.be/Z5rJNbadtuI?si=U6YCLu_2eXRAH42R)');setTimeout(showDiv,100);
        } pertama();
 	
        
