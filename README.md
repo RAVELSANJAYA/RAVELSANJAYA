@@ -11,7 +11,7 @@
 <body>
 	
    <div id="bodyblur">
-     <!-- Wallpaper / Background --><img src="https://postimg.cc/MX4sKhCz" id="wallpaper"/>
+     <!-- Wallpaper / Background --><img src=" https://postimg.cc/MX4sKhCz" id ="wallpaper"/>
    </div>
   
   <div class="kumpulanstiker">
